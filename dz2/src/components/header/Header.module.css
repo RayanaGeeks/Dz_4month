@@ -1,0 +1,9 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #0cead0;
+}
